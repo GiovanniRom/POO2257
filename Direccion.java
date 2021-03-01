@@ -16,6 +16,7 @@ public class Direccion {
     private String delegacion;
     private String estado;
     private String cp;
+  
 
     public Direccion() {
     }
