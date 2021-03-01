@@ -7,7 +7,7 @@
 package mx.unam.aragon.fes.gui;
 
 import mx.unam.aragon.fes.Empleado;
-import java.lang.integer;
+
 /**
  *
  * @author cakit
